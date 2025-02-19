@@ -8,6 +8,7 @@ https://discord.gg/SbjjtT9WsG - Join our discord for previews or just make a tic
 
 ## 🤝 Support & Buy!
 - [Discord Server](https://discord.gg/SbjjtT9WsG)
+- [Purchase Here](https://www.patreon.com/MajesticDevelopment/shop/)
 
 ## 💻 Developer
 - [Majestic Developments](https://discord.gg/SbjjtT9WsG)
